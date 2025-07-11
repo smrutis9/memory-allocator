@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "HEADER.C": "cpp",
+        "stdio.h": "c",
+        "tdmm.h": "c",
+        "assert.h": "c"
+    }
+}

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libtdmm/tdmm.h
+stddef.h
+-
+
+/u/rlm4888/project3/main.c
+tdmm.h
+/u/rlm4888/project3/tdmm.h
+
